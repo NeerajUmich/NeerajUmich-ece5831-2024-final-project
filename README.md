@@ -119,7 +119,8 @@ By combining facial and potential audio modalities, this project demonstrates th
 
 - **Sachet Utekar**: Gender recognition implementation, dataset research, YouTube demo.
 - **Shubham Doshi**: Dataset research, initial training, project management, report documentation.
-- **Neeraj Saini**: Mood recognition implementation, model research, presentation preparation.
+- **Neeraj Saini**: Mood recognition dataset and model research,
+Mood recognition model implementation, final presentation documentation.
 
 ## Future Work
 
