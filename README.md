@@ -18,7 +18,7 @@ Aura Sense is an advanced machine learning project designed to classify gender a
 - [Technologies Used](#technologies-used)
 - [Contributors](#contributors)
 - [Future Work](#future-work)
-- [Project Attachments](project-attachments)
+- [Project Attachments](#project-attachments)
 
 ---
 
@@ -129,14 +129,9 @@ By combining facial and potential audio modalities, this project demonstrates th
 
 ---
 
-Feel free to explore the repository and contribute to the project by submitting issues or pull requests!
-
-
 ## Project Attachments
-- Presentation Link - https://www.youtube.com/watch?v=BnlZIYyMLEc
-- Project Demo Link - https://www.youtube.com/watch?v=uZQCt3bLOB4
-- Dataset Link - https://drive.google.com/drive/folders/1CKlh-vGU9zvo0ecUSl-6a2an2NNx0KSs?usp=drive_link
-- Project Documents Link - https://drive.google.com/drive/folders/1qzruPMLvshQps-Ra_jqSF_CUeG1VGYIG?usp=drive_link
 
-
-
+- **Presentation Link**: [https://www.youtube.com/watch?v=BnlZIYyMLEc](https://www.youtube.com/watch?v=BnlZIYyMLEc)
+- **Project Demo Link**: [https://www.youtube.com/watch?v=uZQCt3bLOB4](https://www.youtube.com/watch?v=uZQCt3bLOB4)
+- **Dataset Link**: [https://drive.google.com/drive/folders/1CKlh-vGU9zvo0ecUSl-6a2an2NNx0KSs?usp=drive_link](https://drive.google.com/drive/folders/1CKlh-vGU9zvo0ecUSl-6a2an2NNx0KSs?usp=drive_link)
+- **Project Documents Link**: [https://drive.google.com/drive/folders/1qzruPMLvshQps-Ra_jqSF_CUeG1VGYIG?usp=drive_link](https://drive.google.com/drive/folders/1qzruPMLvshQps-Ra_jqSF_CUeG1VGYIG?usp=drive_link)
