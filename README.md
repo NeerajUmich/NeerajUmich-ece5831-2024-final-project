@@ -28,17 +28,14 @@ By combining gender recognition with mood detection, the project enhances user i
 
 1. **Data Collection & Preprocessing**:
    - Labeled datasets for male and female voices and image features (facial landmarks).
-   - Feature extraction using pitch, MFCC, and formants for grayscale resizing for images.
+   - Feature extraction for grayscale resizing for images.
 
 2. **Model Development & Training**:
    - Classifier models (CNN, neural networks) for gender and mood recognition.
    - Performance optimization using metrics such as precision, recall, and F1-score.
 
-3. **Mood Recognition (Extension)**:
-   - Research and implement mood recognition features like prosody and pitch variation.
-   - Integrate and test mood classification capabilities.
 
-4. **Final Deliverable**:
+3. **Final Deliverable**:
    - A complete real-time system for gender detection and mood detection, with demo capabilities and well-documented code.
 
 ---
